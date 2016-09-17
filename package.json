@@ -1,7 +1,7 @@
 {
   "name": "year-of-rooster",
-  "version": "1.0.2",
-  "description": "Check if is year of Monkey",
+  "version": "1.0.3",
+  "description": "Check if is year of Rooster",
   "main": "index.js",
   "scripts": {
     "test": "node test"

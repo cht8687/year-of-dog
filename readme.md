@@ -1,6 +1,6 @@
 # year-of-rooster [![Build Status](https://travis-ci.org/cht8687/year-of-rooster.svg?branch=master)](https://travis-ci.org/cht8687/year-of-rooster)
 
-> Check if is year of Monkey
+> Check if is year of Rooster
 
 ## Install
 
@@ -12,26 +12,26 @@ $ npm install --save year-of-rooster
 
 ```js
 
-const yearOfMonkey = require('year-of-rooster');
+const yearOfRooster = require('year-of-rooster');
 
-yearOfMonkey(1991);
+yearOfRooster(1993);
 // true
 
-yearOfMonkey(1992);
+yearOfRooster(1994);
 // false
 
 
 ```
 ## API
 
-### yearOfMonkey([year])
+### yearOfRooster([year])
 
 #### year
 
 Type: `number`  
 Default: current year
 
-### yearOfMonkey([date])
+### yearOfRooster([date])
 
 #### date
 
