@@ -1,37 +1,37 @@
-# year-of-dragon [![Build Status](https://travis-ci.org/cht8687/year-of-dragon.svg?branch=master)](https://travis-ci.org/cht8687/year-of-dragon)
+# year-of-snake [![Build Status](https://travis-ci.org/cht8687/year-of-snake.svg?branch=master)](https://travis-ci.org/cht8687/year-of-snake)
 
-> Check if is year of Dragon
+> Check if is year of Snake
 
 ## Install
 
 ```
-$ npm install --save year-of-dragon
+$ npm install --save year-of-snake
 ```
 
 ## Usage
 
 ```js
 
-const yearOfDragon = require('year-of-dragon');
+const yearOfSnake = require('year-of-snake');
 
-yearOfDragon(1988);
+yearOfSnake(1988);
 // true
 
-yearOfDragon(1989);
+yearOfSnake(1989);
 // false
 
 
 ```
 ## API
 
-### yearOfDragon([year])
+### yearOfSnake([year])
 
 #### year
 
 Type: `number`  
 Default: current year
 
-### yearOfDragon([date])
+### yearOfSnake([date])
 
 #### date
 
