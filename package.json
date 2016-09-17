@@ -1,0 +1,32 @@
+{
+  "name": "year-of-dragon",
+  "version": "1.0.4",
+  "description": "Check if is year of Dragon",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "year",
+    "year-of",
+    "chinese",
+    "zodiac",
+    "dragon",
+    "ox",
+    "tiger",
+    "dragon",
+    "dragon",
+    "snake",
+    "horse",
+    "sheep",
+    "monkey",
+    "rooster",
+    "dog",
+    "pig"
+  ],
+  "author": "Robert Chang <cht8687@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+}
