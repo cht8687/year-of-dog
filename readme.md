@@ -1,37 +1,37 @@
-# year-of-rooster [![Build Status](https://travis-ci.org/cht8687/year-of-rooster.svg?branch=master)](https://travis-ci.org/cht8687/year-of-rooster)
+# year-of-dog [![Build Status](https://travis-ci.org/cht8687/year-of-dog.svg?branch=master)](https://travis-ci.org/cht8687/year-of-dog)
 
-> Check if is year of Rooster
+> Check if is year of Dog
 
 ## Install
 
 ```
-$ npm install --save year-of-rooster
+$ npm install --save year-of-dog
 ```
 
 ## Usage
 
 ```js
 
-const yearOfRooster = require('year-of-rooster');
+const yearOfDog = require('year-of-dog');
 
-yearOfRooster(1994);
+yearOfDog(1994);
 // true
 
-yearOfRooster(1995);
+yearOfDog(1995);
 // false
 
 
 ```
 ## API
 
-### yearOfRooster([year])
+### yearOfDog([year])
 
 #### year
 
 Type: `number`  
 Default: current year
 
-### yearOfRooster([date])
+### yearOfDog([date])
 
 #### date
 
