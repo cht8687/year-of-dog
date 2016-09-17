@@ -1,6 +1,6 @@
 {
   "name": "year-of-dragon",
-  "version": "1.0.4",
+  "version": "1.0.1",
   "description": "Check if is year of Dragon",
   "main": "index.js",
   "scripts": {
