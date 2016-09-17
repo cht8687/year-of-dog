@@ -1,7 +1,7 @@
 {
-  "name": "year-of-sheep",
-  "version": "1.0.3",
-  "description": "Check if is year of Sheep",
+  "name": "year-of-monkey",
+  "version": "1.0.4",
+  "description": "Check if is year of Monkey",
   "main": "index.js",
   "scripts": {
     "test": "node test"
@@ -11,14 +11,14 @@
     "year-of",
     "chinese",
     "zodiac",
-    "sheep",
+    "monkey",
     "ox",
     "tiger",
-    "sheep",
-    "sheep",
-    "sheep",
-    "sheep",
-    "sheep",
+    "monkey",
+    "monkey",
+    "monkey",
+    "monkey",
+    "monkey",
     "monkey",
     "rooster",
     "dog",
@@ -27,7 +27,7 @@
   "author": "Robert Chang <cht8687@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cht8687/year-of-sheep.git"
+    "url": "git+https://github.com/cht8687/year-of-monkey.git"
   },
   "license": "MIT",
   "devDependencies": {
