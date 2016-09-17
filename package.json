@@ -1,7 +1,7 @@
 {
-  "name": "year-of-snake",
+  "name": "year-of-horse",
   "version": "1.0.2",
-  "description": "Check if is year of Snake",
+  "description": "Check if is year of Horse",
   "main": "index.js",
   "scripts": {
     "test": "node test"
@@ -11,12 +11,12 @@
     "year-of",
     "chinese",
     "zodiac",
-    "snake",
+    "horse",
     "ox",
     "tiger",
-    "snake",
-    "snake",
-    "snake",
+    "horse",
+    "horse",
+    "horse",
     "horse",
     "sheep",
     "monkey",
@@ -27,7 +27,7 @@
   "author": "Robert Chang <cht8687@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cht8687/year-of-snake.git"
+    "url": "git+https://github.com/cht8687/year-of-horse.git"
   },
   "license": "MIT",
   "devDependencies": {
