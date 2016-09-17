@@ -1,6 +1,6 @@
 {
-  "name": "year-of-monkey",
-  "version": "1.0.4",
+  "name": "year-of-rooster",
+  "version": "1.0.2",
   "description": "Check if is year of Monkey",
   "main": "index.js",
   "scripts": {
@@ -11,15 +11,15 @@
     "year-of",
     "chinese",
     "zodiac",
-    "monkey",
+    "rooster",
     "ox",
     "tiger",
-    "monkey",
-    "monkey",
-    "monkey",
-    "monkey",
-    "monkey",
-    "monkey",
+    "rooster",
+    "rooster",
+    "rooster",
+    "rooster",
+    "rooster",
+    "rooster",
     "rooster",
     "dog",
     "pig"
@@ -27,7 +27,7 @@
   "author": "Robert Chang <cht8687@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cht8687/year-of-monkey.git"
+    "url": "git+https://github.com/cht8687/year-of-rooster.git"
   },
   "license": "MIT",
   "devDependencies": {
