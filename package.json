@@ -1,6 +1,6 @@
 {
   "name": "year-of-horse",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Check if is year of Horse",
   "main": "index.js",
   "scripts": {

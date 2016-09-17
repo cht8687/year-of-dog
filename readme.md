@@ -14,10 +14,10 @@ $ npm install --save year-of-horse
 
 const yearOfHorse = require('year-of-horse');
 
-yearOfHorse(1988);
+yearOfHorse(1990);
 // true
 
-yearOfHorse(1989);
+yearOfHorse(1991);
 // false
 
 
