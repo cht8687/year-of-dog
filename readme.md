@@ -1,37 +1,37 @@
-# year-of-horse [![Build Status](https://travis-ci.org/cht8687/year-of-horse.svg?branch=master)](https://travis-ci.org/cht8687/year-of-horse)
+# year-of-sheep [![Build Status](https://travis-ci.org/cht8687/year-of-sheep.svg?branch=master)](https://travis-ci.org/cht8687/year-of-sheep)
 
-> Check if is year of Horse
+> Check if is year of Sheep
 
 ## Install
 
 ```
-$ npm install --save year-of-horse
+$ npm install --save year-of-sheep
 ```
 
 ## Usage
 
 ```js
 
-const yearOfHorse = require('year-of-horse');
+const yearOfSheep = require('year-of-sheep');
 
-yearOfHorse(1990);
+yearOfSheep(1991);
 // true
 
-yearOfHorse(1991);
+yearOfSheep(1992);
 // false
 
 
 ```
 ## API
 
-### yearOfHorse([year])
+### yearOfSheep([year])
 
 #### year
 
 Type: `number`  
 Default: current year
 
-### yearOfHorse([date])
+### yearOfSheep([date])
 
 #### date
 
